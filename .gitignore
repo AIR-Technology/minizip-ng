@@ -1,4 +1,4 @@
 build/
-third-party/
+third_party/
 .vscode
 TAGS
